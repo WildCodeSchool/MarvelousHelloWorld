@@ -8,7 +8,6 @@
 
 # Visual Studio / MonoDevelop
 *.[Oo]bj
-*.exe
 *.dll
 *.pdb
 *.user
